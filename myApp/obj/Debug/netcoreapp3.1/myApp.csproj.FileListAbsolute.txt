@@ -1,0 +1,11 @@
+/home/tadeu/dot_net/myApp/bin/Debug/netcoreapp3.1/myApp
+/home/tadeu/dot_net/myApp/bin/Debug/netcoreapp3.1/myApp.deps.json
+/home/tadeu/dot_net/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.json
+/home/tadeu/dot_net/myApp/bin/Debug/netcoreapp3.1/myApp.runtimeconfig.dev.json
+/home/tadeu/dot_net/myApp/bin/Debug/netcoreapp3.1/myApp.dll
+/home/tadeu/dot_net/myApp/bin/Debug/netcoreapp3.1/myApp.pdb
+/home/tadeu/dot_net/myApp/obj/Debug/netcoreapp3.1/myApp.csprojAssemblyReference.cache
+/home/tadeu/dot_net/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfoInputs.cache
+/home/tadeu/dot_net/myApp/obj/Debug/netcoreapp3.1/myApp.AssemblyInfo.cs
+/home/tadeu/dot_net/myApp/obj/Debug/netcoreapp3.1/myApp.dll
+/home/tadeu/dot_net/myApp/obj/Debug/netcoreapp3.1/myApp.pdb
